@@ -5,6 +5,8 @@
 
 * Creating initial structure
   * Update CHANGELOG.md
+  * Update README.md
+  * Update CHANGELOG.md
   * Create src/application/modules/README.md
   * Create src/application/models/.gitignore
   * Create src/application/controllers/.gitignore
