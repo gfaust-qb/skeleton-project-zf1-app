@@ -16,6 +16,21 @@ This file is the main file for documentation, other README.md files describe the
 * ressources/    
   * [README.md](ressources/README.md)  
 * src/
+  * application/
+    * configs/
+    * controllers/
+    * models/
+    * modules/
+      * [README.md](src/application/modules/README.md)
+    * views/
+      * scripts/
+        * error/
+  * data/
+    * import/
+    * export/
+  * logs/
+  * public/
+  * scripts/
   * vendor/
     * [README.md](src/vendor/README.md)
   * [README.md](src/README.md)
