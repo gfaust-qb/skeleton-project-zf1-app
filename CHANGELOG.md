@@ -1,6 +1,12 @@
 # Changelog
 ## Version History
 
+### 2017-06-06
+
+* Adding composer.json
+  * Update CHANGELOG.md
+  * Create composer.json
+  
 ### 2017-06-02
 
 * Creating initial structure
