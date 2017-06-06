@@ -30,6 +30,7 @@ This file is the main file for documentation, other README.md files describe the
     * export/
   * logs/
   * public/
+    * `index.php`
   * scripts/
   * vendor/
     * [README.md](src/vendor/README.md)
