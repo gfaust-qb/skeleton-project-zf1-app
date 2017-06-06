@@ -24,8 +24,7 @@
 
   "require": {
     "php-di/php-di": "4.4.*",
-    "php-di/zf1-bridge": "2.0.*",
-    "phpseclib/phpseclib": "2.0.*"
+    "php-di/zf1-bridge": "2.0.*"
   },
 
   "require-dev": {
@@ -35,6 +34,7 @@
 
   "suggest": {
     "zendframework/zendframework1": "The complete Zend Framework 1",
-    "zf1/zend-controller": "The Zend Controller package only"
+    "zf1/zend-controller": "The Zend Controller package only",
+    "phpseclib/phpseclib": "PHPSecLib 2.0.*"
   }
 }
