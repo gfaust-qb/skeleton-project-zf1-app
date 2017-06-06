@@ -1,7 +1,7 @@
 {
   "name": "gfaust-qb/skeleton-project-zf1-app",
 
-  "description": "A skeleton to setup a project.",
+  "description": "A skeleton for creating a new zend framework 1 project within a defined (php-pds/skeleton) structure.",
 
   "version": "0.0.1-alpha1",
 
