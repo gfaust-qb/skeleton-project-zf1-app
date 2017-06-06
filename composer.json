@@ -1,0 +1,45 @@
+{
+  "name": "qbps/projectSkeleton",
+
+  "description": "A skeleton to setup a project.",
+
+  "version": "0.0.1-alpha1",
+
+  "type": "project",
+
+  "license": "proprietary",
+
+  "authors": [
+      {
+          "name": "Guido Faust",
+          "email": "guido.faust@questback.com",
+          "homepage": "http://www.questback.de",
+          "role": "Senior Technical Consultant"
+      }
+  ],
+
+  "config": {
+          "vendor-dir": "src/vendor"
+  },
+
+  "require": {
+    "php-di/php-di": "4.4.*",
+    "php-di/zf1-bridge": "2.0.*",
+    "phpseclib/phpseclib": "2.0.*"
+  },
+
+  "require-dev": {
+    "pds/skeleton": "1.*",
+    "phpmd/phpmd": "2.3.*",
+    "sebastian/phpcpd": "1.4.*",
+    "phing/phing": "2.15.*",
+    "phpunit/phpunit": "4.*",
+    "phpdocumentor/phpdocumentor": "v2.*",
+    "squizlabs/php_codesniffer": "2.*"
+  },
+
+  "suggest": {
+    "zendframework/zendframework1": "The complete Zend Framework 1",
+    "zf1/zend-controller": "The Zend Controller package only"
+  }
+}
