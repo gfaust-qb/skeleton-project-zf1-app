@@ -9,6 +9,9 @@
 // Define path to application directory
 defined('APPLICATION_PATH') || define('APPLICATION_PATH', realpath(dirname(__FILE__) . '/../application'));
 
+// Autoload vendor libraries
+require_once APPLICATION_PATH . '/../vendor/autoload.php';
+
 // Define application environment
 defined('APPLICATION_ENV') || define(
     'APPLICATION_ENV',
