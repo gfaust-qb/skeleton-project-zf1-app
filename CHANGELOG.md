@@ -4,16 +4,19 @@
 ### 2017-06-06
 
 * Adding composer.json
-  * Update CHANGELOG.md
-  * Create composer.json
+  * Update `CHANGELOG.md`
+  * Create `src/public/index.php`
+  * Update `composer.json`
+  * Update `CHANGELOG.md`
+  * Create `composer.json`
   
 ### 2017-06-02
 
 * Creating initial structure
-  * Update CHANGELOG.md
-  * Update README.md
-  * Update CHANGELOG.md
-  * Create src/application/modules/README.md
+  * Update `CHANGELOG.md`
+  * Update `README.md`
+  * Update `CHANGELOG.md`
+  * Create `src/application/modules/README.md`
   * Create src/application/models/.gitignore
   * Create src/application/controllers/.gitignore
   * Create src/application/views/scripts/error/error.phtml
