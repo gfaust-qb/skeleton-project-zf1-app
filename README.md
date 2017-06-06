@@ -38,11 +38,6 @@ This file is the main file for documentation, other README.md files describe the
 * tests/  
   * [README.md](tests/README.md)
 * [CHANGELOG.md](CHANGELOG.md)
-  * If the package provides a root-level file with a list of changes since the last release or version, it MUST be named CHANGELOG.
-    
-    It MAY have a lowercase filename extension indicating the file format.
-    
-    This publication does not otherwise define the structure and contents of the file.
 * [CONTRIBUTING.md](CONTRIBUTING.md)    
 * [composer.json]() 
   * require
@@ -55,6 +50,7 @@ This file is the main file for documentation, other README.md files describe the
     * [zendframework/zendframework1](https://github.com/zendframework/zendframework1): "The complete Zend Framework 1",
     * [zf1/zend-controller](https://github.com/zf1/zend-controller): "The Zend Controller package only",
     * [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib): "PHPSecLib 2.0.*"
+* [LICENSE]()    
 * [README.md]() (this file)
 
 ### Other Directories
