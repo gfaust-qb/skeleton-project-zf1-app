@@ -5,6 +5,9 @@
 
 * Adding composer.json
   * Update `CHANGELOG.md`
+  * Update `composer.json`
+    * replace build tools by metapackage
+  * Update `CHANGELOG.md`
   * Create `src/public/index.php`
   * Update `composer.json`
   * Update `CHANGELOG.md`
