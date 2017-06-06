@@ -48,15 +48,13 @@ This file is the main file for documentation, other README.md files describe the
   * require
     * [php-di/php-di](https://github.com/php-di/php-di)
     * [php-di/zf1-bridge](https://github.com/php-di/zf1-bridge)
-    * [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib)
   * require-dev:
     * [pds/skeleton](https://github.com/php-pds/skeleton)
-    * [phpmd/phpmd](https://github.com/phpmd/phpmd)
-    * [sebastian/phpcpd](https://github.com/sebastian/phpcpd)
-    * [phing/phing](https://github.com/phing/phing)
-    * [phpunit/phpunit](https://github.com/phpunit/phpunit)
-    * [phpdocumentor/phpdocumentor](https://github.com/phpdocumentor/phpdocumentor)
-    * [squizlabs/php_codesniffer](https://github.com/squizlabs/php_codesniffer)
+    * [gfaust-qb/qa-build-tools](https://github.com/gfaust-qb/qa-build-tools)
+  * suggest:
+    * [zendframework/zendframework1](https://github.com/zendframework/zendframework1): "The complete Zend Framework 1",
+    * [zf1/zend-controller](https://github.com/zf1/zend-controller): "The Zend Controller package only",
+    * [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib): "PHPSecLib 2.0.*"
 * [README.md]() (this file)
 
 ### Other Directories
